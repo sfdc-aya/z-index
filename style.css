@@ -1,0 +1,48 @@
+body{
+    width: 800px;
+    position: absolute;
+    left: 10px;
+}
+div{
+    background-color:lightgoldenrodyellow;
+}
+
+.red{
+    background-color: red;
+    border-width: 400px;
+    font-weight: bold;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 50px;
+    color: white;
+    position: absolute;
+    left: -20px;
+    top:-10px;
+}
+.green{
+    background-color: rgb(110, 143, 32);
+    border-width: 400px;
+    font-weight: bold;
+    padding-right: 200px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: white;
+    position: absolute;
+    left: 10px;
+    top:40px;
+}
+.blue{
+    background-color: rgb(23, 112, 141);
+    border-width: 400px;
+    font-weight: bold;
+    padding-right: 200px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: white;
+    position: absolute;
+    left: 120px;
+    top:5px;
+}
